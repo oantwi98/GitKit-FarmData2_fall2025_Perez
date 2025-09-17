@@ -124,7 +124,7 @@ The majority of development for FarmData2 is front-end (i.e. browser-based).  Th
 
 [Vue.js](https://vuejs.org/) is a JavaScript framework for simplifying the creation of interactive web applications. Creating highly interactive applications using HTML, CSS and JavaScript is possible, but some of the details become repetitive and tedious. Vue.js simplifies many of the common operations by allowing parts of the displayed page to be _bound_ to a data object.  In that way, when JavaScript code changes the data object the _view_ of that data displayed in the browser is automatically updated.
 
-  - Resources:
+  - Resourcess:
     - [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals): A video based course and a great place to start if you have not worked with Vue.js before or want a refresher. Click the "Start Course" button.
     - [Vue.js Guide](https://vuejs.org/v2/guide): A textual introduction to using Vue.js.
     - [Vue.js Components](https://vueschool.io/courses/vuejs-components-fundamentals): A video based course that introduces the basics of Vue Components.
