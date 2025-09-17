@@ -207,7 +207,7 @@ See the `docker-compose.yml` file in the [docker](https://github.com/DickinsonCo
 
 #### bash scripting ####
 
-Bash scripts are provided in the [docker](https://github.com/DickinsonCollege/FarmData2/tree/main/docker) directory to simplify the process of bringing up and taking down FarmData2.
+Bash scriptss are provided in the [docker](https://github.com/DickinsonCollege/FarmData2/tree/main/docker) directory to simplify the process of bringing up and taking down FarmData2.
 
 ### Back-End Technologies ###
 
