@@ -124,7 +124,7 @@ The majority of development for FarmData2 is front-end (i.e. browser-based).  Th
 
 [Vue.js](https://vuejs.org/) is a JavaScript framework for simplifying the creation of interactive web applications. Creating highly interactive applications using HTML, CSS and JavaScript is possible, but some of the details become repetitive and tedious. Vue.js simplifies many of the common operations by allowing parts of the displayed page to be _bound_ to a data object.  In that way, when JavaScript code changes the data object the _view_ of that data displayed in the browser is automatically updated.
 
-  - Resources:
+  - Resourcess:
     - [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals): A video based course and a great place to start if you have not worked with Vue.js before or want a refresher. Click the "Start Course" button.
     - [Vue.js Guide](https://vuejs.org/v2/guide): A textual introduction to using Vue.js.
     - [Vue.js Components](https://vueschool.io/courses/vuejs-components-fundamentals): A video based course that introduces the basics of Vue Components.
@@ -164,7 +164,7 @@ The Cypress end-to-end test framework works by controlling the web browser. A te
 
   - Resources
     - [Introduction to Cypress](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html): As the docs say... "the single most important guide for understanding how to test with Cypress. Read it. Understand it."
-    - [Writing Your First Test](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Add-a-test-file): A good overview of how a typical cypres test work, what the code looks like and how to use the cypress test runner.
+    - [Writing Your First Test](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Add-a-test-file): A good overview of how a typical cypress test works, what the code looks like and how to use the cypress test runner.
     - [Selecting Elements](https://docs.cypress.io/guides/references/best-practices.html#Selecting-Elements): Best practices for selecting elements that are manipulated and checked by your tests. Following these will make you tests less brittle.
     - [Selector Playground](https://docs.cypress.io/guides/core-concepts/test-runner.html#Selector-Playground): A tool within the cypress test runner that will help you find good selectors to use for the elements used in your tests.
     - [Interacting with Elements](https://docs.cypress.io/guides/core-concepts/interacting-with-elements): The main commands in cypress for interacting with elements in the page (e.g. click, select, etc.)
@@ -207,7 +207,7 @@ See the `docker-compose.yml` file in the [docker](https://github.com/DickinsonCo
 
 #### bash scripting ####
 
-Bash scripts are provided in the [docker](https://github.com/DickinsonCollege/FarmData2/tree/main/docker) directory to simplify the process of bringing up and taking down FarmData2.
+Bash scriptss are provided in the [docker](https://github.com/DickinsonCollege/FarmData2/tree/main/docker) directory to simplify the process of bringing up and taking down FarmData2.
 
 ### Back-End Technologies ###
 
